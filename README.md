@@ -1,7 +1,7 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# ✯ 𝕾𝖆𝖕𝖎𝖙𝖔_𝕭𝖔𝖙-𝕸𝕯 ✯
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+# 𖠌 𝐷𝑢𝑑𝑎𝑠 𝑠𝑜𝑏𝑟𝑒 𝑒𝑙 𝑏𝑜𝑡?, 𝐶𝑜𝑛𝑡𝑎𝑐𝑡𝑎𝑛𝑜𝑠 𖠌`
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/𝑺𝑵𝑻-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/34642467703" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/50499698072" target="blank"><img src="https://img.shields.io/badge/ALBERTO_ACOSTA_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/595986460945" target="blank"><img src="https://img.shields.io/badge/AIDEN_NOTLOGIC_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -11,12 +11,6 @@
 <a href="http://wa.me/51995386439" target="blank"><img src="https://img.shields.io/badge/NEKOSMIC_MATT_COLAB.7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_COLAB.8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-### `—◉ 💟 GRUPO DE SOPORTE 💟`
-
-<a href="https://chat.whatsapp.com/DNJ4Ppm5ysn3fhjGflrr0J" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 

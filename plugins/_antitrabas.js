@@ -20,7 +20,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin, usedPrefix }) {
         if (isBotAdmin && bot.restrict) {
         conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
         	setTimeout(() => { 
-        	conn.sendMessage(m.chat, { text: `Marcar el chat como leido ✓\n${"\n".repeat(400)}\n=> El número : wa.me/${m.sender.split("@")[0]}\n=> Alias : ${name}\n[ ! ] Acaba de enviar un texto que contiene muchos caracteres que puede ocasionar fallos en los dispositivos`, mentions: [m.sender] }, { quoted: fakemek })
+        	conn.sendMessage(m.chat, { text: `𝑴𝒂𝒓𝒄𝒂𝒓 𝒄𝒉𝒂𝒕 𝒄𝒐𝒎𝒐 𝒍𝒆𝒊𝒅𝒐 ✓\n${"\n".repeat(400)}\n=> 𝒆𝒍 𝒏𝒖𝒎𝒆𝒓𝒐 : wa.me/${m.sender.split("@")[0]}\n=> 𝑨𝒍𝒊𝒂𝒔 : ${name}\n[ ! ] 𝑨𝒄𝒂𝒃𝒂 𝒅𝒆 𝒅𝒏𝒗𝒊𝒂𝒓 𝒖𝒏 𝒕𝒆𝒙𝒕𝒐 𝒒𝒖𝒆 𝒄𝒐𝒏𝒕𝒊𝒆𝒏𝒆 𝒎𝒖𝒄𝒉𝒐𝒔 𝒄𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒆𝒔 𝒒𝒖𝒆 𝒑𝒖𝒆𝒅𝒆 𝒐𝒄𝒂𝒄𝒊𝒐𝒏𝒂𝒓 𝒇𝒂𝒍𝒍𝒂𝒔 𝒆𝒏 𝒍𝒐𝒔 𝒅𝒊𝒔𝒑𝒐𝒄𝒊𝒕𝒊𝒗𝒐𝒔`, mentions: [m.sender] }, { quoted: fakemek })
         }, 0)
         setTimeout(() => { 
         	conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')

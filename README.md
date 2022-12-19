@@ -30,7 +30,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
+git clone https://github.com/SNT-Oficial/SapitoV3.git && cd SapitoV3
 ```
 
 ```bash
@@ -57,16 +57,16 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd Sapito V3
 > npm start
 ```
 
 # 𝑂𝑏𝑡𝑒𝑛𝑒𝑟 𝑜𝑡𝑟𝑜 𝑐𝑜𝑑𝑖𝑔𝑜 𝑸𝑹 𝑒𝑛 𝑡𝑒𝑟𝑚𝑢𝒙 ㋛︎
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A SapitoV3 $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd SapitoV3
 > rm -rf MysticSession
 > npm start
 ```

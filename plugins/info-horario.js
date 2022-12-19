@@ -23,25 +23,25 @@ const fechabra = moment().tz('America/Sao_Paulo').format('DD/MM HH:mm')
 const fechaafri = moment().tz('Africa/Malabo').format('DD/MM HH:mm')
 await conn.sendMessage(m.chat, { text: `\`\`\`
 「 ZONA-HORARIA ⏰ 」
-⏱️Peru       : ${fechaper}
-⏱️Mexico     : ${fechamex}
-⏱️Bolivia    : ${fechabol}
-⏱️Chile      : ${fechachi}
-⏱️Argentina  : ${fechaarg}
-⏱️Colombia   : ${fechacol}
-⏱️Ecuador    : ${fechaecu}
-⏱️Costa_Rica : ${fechacosr}
-⏱️Cuba       : ${fechacub}
-⏱️Guatemala  : ${fechagua}
-⏱️Honduras   : ${fechahon}
-⏱️Nicaragua  : ${fechanic}
-⏱️Panama     : ${fechapan}
-⏱️Uruguay    : ${fechauru}
-⏱️Venezuela  : ${fechaven}
-⏱️Paraguay   : ${fechapar}
-⏱️New York   : ${fechanew}
+⏱️Mexico 🇲🇽    : ${fechamex}
+⏱️Paraguay 🇵🇾  : ${fechapar}
+⏱️Peru 🐒      : ${fechaper}
+⏱️Bolivia 🇧🇴   : ${fechabol}
+⏱️Chile 🇨🇱     : ${fechachi}
+⏱️Argentina 🇦🇷 : ${fechaarg}
+⏱️Colombia 🇨🇴  : ${fechacol}
+⏱️Ecuador 🇪🇨   : ${fechaecu}
+⏱️Costa_Rica 🇨🇷: ${fechacosr}
+⏱️Cuba 🇨🇺      : ${fechacub}
+⏱️Guatemala 🇬🇹  : ${fechagua}
+⏱️Honduras  🇭🇳 : ${fechahon}
+⏱️Nicaragua 🇳🇮  : ${fechanic}
+⏱️Panama 🇵🇦    : ${fechapan}
+⏱️Uruguay  🇺🇾  : ${fechauru}
+⏱️Venezuela 🇻🇪 : ${fechaven}
+⏱️New York 🇺🇲  : ${fechanew}
 ⏱️Asia       : ${fechaasi}
-⏱️Brasil     : ${fechabra}
+⏱️Brasil 🇧🇷     : ${fechabra}
 ⏱️G.N.Q      : ${fechaafri}
 \`\`\`
 ${String.fromCharCode(8206).repeat(850)}

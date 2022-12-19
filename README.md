@@ -2,43 +2,20 @@
 
 # 𖠌 𝐷𝑢𝑑𝑎𝑠 𝑠𝑜𝑏𝑟𝑒 𝑒𝑙 𝑏𝑜𝑡?, 𝐶𝑜𝑛𝑡𝑎𝑐𝑡𝑎𝑛𝑜𝑠 𖠌`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/𝑺𝑵𝑻-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/34642467703" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50499698072" target="blank"><img src="https://img.shields.io/badge/ALBERTO_ACOSTA_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986460945" target="blank"><img src="https://img.shields.io/badge/AIDEN_NOTLOGIC_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51940617554" target="blank"><img src="https://img.shields.io/badge/GATITO_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/593991398786" target="blank"><img src="https://img.shields.io/badge/CARLOSTWT_COLAB.5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51996089079" target="blank"><img src="https://img.shields.io/badge/GHOST_COLAB.6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51995386439" target="blank"><img src="https://img.shields.io/badge/NEKOSMIC_MATT_COLAB.7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_COLAB.8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/420702012758" target="blank"><img src="https://img.shields.io/badge/𝑨𝒍𝒆𝒙𝒊𝒔 𝑾𝒊𝒕𝒉 𝑳𝒐𝒈𝒊𝒄-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 🤖 BOTS OFICIALES 🤖`
+# 𝐵𝑜𝑡 𝑂𝑓𝑖𝑐𝑖𝑎𝑙 シ︎
 
-<a href="https://api.whatsapp.com/send/?phone=5219993404349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=ᗩᑌᑎ ᑎO&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
- > NO SPAMEAR COMANDOS
+ > ᑎO Տᑭᗩᗰᗴᗩᖇ ᑕOᗰᗩᑎᗪOՏ
 
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+#  𝐴𝑗𝑢𝑠𝑡𝑒𝑠 ✈︎
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/SNT-Oficial/SapitoV3/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/SNT-Oficial/SapitoV3/blob/master/config.js)
 
-### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
-- PAGINA [Aqui](https://beta.openai.com/playground)
-
-### `—◉ 💕 PLUGINS 💕`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
-  
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
-
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/Mystic-termux)
-
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/Mystic-termux/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/Mystic-termux/blob/master/config.js)
-
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
+# 𝐴𝑐𝑡𝑖𝑣𝑎𝑟 𝑒𝑛 𝑡𝑒𝑟𝑚𝑢𝑥 ☯︎
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 cd && termux-setup-storage
@@ -76,7 +53,7 @@ npm install
 npm start
 ```
 
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
+# 𝐴𝑐𝑡𝑖𝑣𝑎𝑟 𝑒𝑛 𝑐𝑎𝑠𝑜 𝑑𝑒 𝑑𝑒𝑡𝑒𝑛𝑒𝑟𝑠𝑒 𝑒𝑛 𝑡𝑒𝑟𝑚𝑢𝑥 ☮︎
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
@@ -84,7 +61,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
+# 𝑂𝑏𝑡𝑒𝑛𝑒𝑟 𝑜𝑡𝑟𝑜 𝑐𝑜𝑑𝑖𝑔𝑜 𝑸𝑹 𝑒𝑛 𝑡𝑒𝑟𝑚𝑢𝒙 ㋛︎
 - DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
@@ -94,42 +71,22 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
 
-### `—◉ 📝 NOTAS 📝`
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
-## `COLABORADORES DEL BOT` 
+# 𝑁𝑜𝑡𝑎𝑠 ☻︎
+- 𝐄𝐬 𝐩𝐨𝐬𝐢𝐛𝐥𝐞 𝐪𝐮𝐞 𝐞𝐥 𝐛𝐨𝐭 𝐭𝐞𝐧𝐠𝐚 𝐚𝐥𝐠𝐮𝐧𝐚𝐬 𝐟𝐚𝐥𝐥𝐚𝐬, 𝐒𝐞 𝐢𝐫𝐚𝐧 𝐚𝐫𝐫𝐞𝐠𝐥𝐚𝐧𝐝𝐨 𝐜𝐨𝐧𝐟𝐨𝐫𝐦𝐞 𝐬𝐞 𝐯𝐚𝐲𝐚𝐧 𝐝𝐞𝐭𝐞𝐜𝐭𝐚𝐧𝐝𝐨
+- 𝐒𝐢 𝐯𝐚𝐬 𝐚 𝐞𝐝𝐢𝐭𝐚𝐫 𝐩𝐨𝐫 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐨 𝐝𝐞𝐣𝐚 𝐥𝐨𝐬 𝐜𝐫𝐞𝐝𝐢𝐭𝐨𝐬 𝐝𝐞𝐥 𝐛𝐨𝐭
+- 𝐄𝐥 𝐛𝐨𝐭 𝐞𝐬 𝐜𝐨𝐦𝐩𝐚𝐫𝐭𝐢𝐛𝐥𝐞 𝐜𝐨𝐧 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐧𝐨𝐫𝐦𝐚𝐥 𝐨 𝐁𝐮𝐬𝐢𝐧𝐧𝐞𝐬
+- 𝐀𝐭𝐞𝐧𝐭𝐨 𝐚 𝐥𝐚𝐬 𝐚𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢𝐨𝐧𝐞𝐬 𝐪𝐮𝐞 𝐬𝐞 𝐡𝐚𝐠𝐚𝐧 𝐞𝐧 𝐞𝐬𝐭𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨
+- 𝐄𝐥 𝐀𝐃𝐃 𝐲 𝐞𝐥 𝐊𝐈𝐂𝐊 𝐩𝐮𝐞𝐝𝐞𝐧 𝐨𝐜𝐚𝐜𝐢𝐨𝐧𝐚𝐫 𝐪𝐮𝐞 𝐞𝐥 𝐧𝐮𝐦𝐞𝐫𝐨 𝐬𝐞 𝐯𝐚𝐥𝐥𝐚 𝐚 𝐬𝐨𝐩𝐨𝐫𝐭𝐞 𝐩𝐨𝐫 𝐞𝐥𝐥𝐨 𝐬𝐞 𝐚𝐜𝐭𝐢𝐯𝐚 𝐜𝐨𝐧 #enable restrict 
+- 𝐒𝐚𝐩𝐢𝐭𝐨 𝐁𝐨𝐭 - 𝐭𝐞𝐚𝐦 𝐧𝐨 𝐬𝐞 𝐡𝐚𝐜𝐞 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐚𝐛𝐥𝐞 𝐝𝐞𝐥 𝐮𝐬𝐨, 𝐧𝐮𝐦𝐞𝐫𝐨𝐬, 𝐩𝐫𝐢𝐯𝐚𝐜𝐢𝐝𝐚𝐝 𝐲 𝐜𝐨𝐧𝐭𝐞𝐧𝐢𝐝𝐨 𝐦𝐚𝐧𝐝𝐚𝐝𝐨, 𝐮𝐬𝐚𝐝𝐨 𝐨 𝐠𝐞𝐬𝐭𝐢𝐨𝐧𝐚𝐝𝐨 𝐩𝐨𝐫 𝐮𝐬𝐭𝐞𝐝𝐞𝐬 𝐨 𝐞𝐥 𝐛𝐨𝐭
+
+# 𝐶𝑜𝑙𝑎𝑏𝑜𝑟𝑎𝑑𝑜𝑟 𝑑𝑒𝑙 𝑏𝑜𝑡 ❦︎
 <a href="https://github.com/unptoadrih15"><img src="https://github.com/unptoadrih15.png" width="100" height="100" alt="unptoadrih15"/></a>
-<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="100" height="100" alt="ALBERTO9883"/></a>
-<a href="https://github.com/ferhacks"><img src="https://github.com/ferhacks.png" width="100" height="100" alt="ferhacks"/></a>
-<a href="https://github.com/Gatito-kw"><img src="https://github.com/Gatito-kw.png" width="100" height="100" alt="Gatito-kw"/></a>
-<a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
-<a href="https://github.com/OsExar"><img src="https://github.com/OsExar.png" width="100" height="100" alt="OsExar"/></a>
-<a href="https://github.com/CarlosTwT"><img src="https://github.com/CarlosTwT.png" width="100" height="100" alt="CarlosTwT"/></a>
-<a href="https://github.com/anxo2077"><img src="https://github.com/anxo2077.png" width="100" height="100" alt="anxo2077"/></a>
-<a href="https://github.com/GeneradorVIP"><img src="https://github.com/GeneradorVIP.png" width="100" height="100" alt="GeneradorVIP"/></a>
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="100" height="100" alt="DIEGO-OFC"/></a>
-<a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
 
-## `AGRADECIMIENTOS & CREDITOS` 
-<div><button id="boton" type="button">games-wabot-md - By BochilGaming </button></div>
-<a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="150" height="150" alt="BochilGaming"/></a>
-<div><button id="boton" type="button">Baileys - By adiwajshing</button></div>
-<a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="150" height="150" alt="adiwajshing"/></a>
+# 𝐶𝑟𝑒𝑑𝑖𝑡𝑜𝑠 𝑌 𝑎𝑔𝑟𝑎𝑑𝑒𝑐𝑖𝑚𝑖𝑒𝑛𝑡𝑜 
 
-## `EDITOR & PORPIETARIO DEL BOT` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
+# 𝐸𝑑𝑖𝑡𝑜𝑟 𝑌 𝑃𝑟𝑜𝑝𝑖𝑒𝑡𝑎𝑟𝑖𝑜 𝐷𝑒𝑙 𝐵𝑜𝑡
+<a href="https://github.com/SNT-Oficial"><img src="https://github.com/SNT-Oficial.png" width="250" height="250" alt="SNT-Oficial"/></a>
   
-`TheMystic-Bot-MD - By Bruno Sobrino`
+`𝕾𝖆𝖕𝖎𝖙𝖔 𝕭𝖔𝖙 - 𝘽𝙮 🇸 🇳 🇹 `

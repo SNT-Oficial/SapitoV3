@@ -6,7 +6,7 @@ if (m.text.includes('PIEDRA') || m.text.includes('PAPEL') || m.text.includes('TI
 let chat = global.db.data.chats[m.chat]
 let bot = global.db.data.settings[this.user.jid] || {}
 if (bot.antiPrivate && !isOwner && !isROwner) {
-await m.reply(`*[❗] ʜᴏʟᴀ @${m.sender.split`@`[0]}, ᴇsᴛᴀ ᴘʀᴏʜɪʙɪᴅᴏ ʜᴀʙʟᴀʀ ᴀʟ ᴘʀɪᴠᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ ᴘᴏʀ ʟᴏ ᴄᴜᴀʟ sᴇʀᴀs ʙʟᴏϙᴜᴇᴀᴅᴏ.*`, false, { mentions: [m.sender] })
+await m.reply(`*[❗] ʜᴏʟᴀ @${m.sender.split`@`[0]}, ᴇ𝑺ᴛᴀ ᴘʀᴏʜɪʙɪᴅᴏ ʜᴀʙʟᴀʀ ᴀʟ ᴘʀɪᴠᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ ᴘᴏʀ ʟᴏ ᴄᴜᴀʟ sᴇʀᴀs ʙʟᴏϙᴜᴇᴀᴅᴏ.*`, false, { mentions: [m.sender] })
 await this.updateBlockStatus(m.chat, 'block')}
 return !1
 }
